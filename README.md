@@ -18,7 +18,8 @@ Created Train & Test data set with 33 % test size. Which is going to be applied 
 
 Early Models: As data set belongs to Supervised Machine learning, applied below Algorithms  
 
-# Metrics to be used: ROC-AUC Score
+# Metrics to be used: 
+ROC-AUC Score
 
 # Machine Learning Algorithm Used:
 -	Logistic Regression
